@@ -1,4 +1,4 @@
-Typewriter style graphics for terminal outpur
-Just a function that takes a string and outputs it in to the terminal
+Typewriter style graphics for terminal output
+Just a function that takes a string and outputs it in to the terminal slowly, one character at a time.
 Its just for fun
 I used it for my text based adventure game assignment
